@@ -8,6 +8,7 @@ This module introduces you to the TypeScript language and shows you how to set u
 
 ## Module 2
 Learn about the available types and how to associate them with variables.
+https://learn.microsoft.com/es-es/training/modules/typescript-declare-variable-types/
 
 ## Module 3
 Learn how to use interfaces to define object types.
