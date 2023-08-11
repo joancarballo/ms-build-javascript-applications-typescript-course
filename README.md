@@ -1,9 +1,9 @@
 # Microsoft Build JavaScript applications using TypeScript course
-Build JavaScript applications using TypeScript course at ClassCentral,level Intermediate in full english: 
+Build JavaScript applications using TypeScript course at ClassCentral,level Intermediate in full english:
 
 https://www.classcentral.com/course/microsoft-learn-build-javascript-applications-typescript-62429
 
-## Module 1
+## ✅ Module 1
 This module introduces you to the TypeScript language and shows you how to set up a TypeScript development environment.
 
 ## Module 2
@@ -21,7 +21,7 @@ Learn how to declare and instantiate classes in TypeScript.
 ## Module 6
 Learn how to define generics in TypeScript.
 
-## Module 7 
+## Module 7
 Learn how to access external libraries from TypeScript.
 
 ## Module 8
