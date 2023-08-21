@@ -10,12 +10,13 @@ This module introduces you to the TypeScript language and shows you how to set u
 Learn about the available types and how to associate them with variables.
 https://learn.microsoft.com/es-es/training/modules/typescript-declare-variable-types/
 
-## Module 3
+## ✅ Module 3
 Learn how to use interfaces to define object types.
 https://learn.microsoft.com/es-es/training/modules/typescript-implement-interfaces/
 
 ## Module 4
 Learn how to develop typed functions by using TypeScript.
+https://learn.microsoft.com/es-es/training/modules/typescript-develop-typed-functions/
 
 ## Module 5
 Learn how to declare and instantiate classes in TypeScript.
