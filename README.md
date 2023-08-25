@@ -14,12 +14,13 @@ https://learn.microsoft.com/es-es/training/modules/typescript-declare-variable-t
 Learn how to use interfaces to define object types.
 https://learn.microsoft.com/es-es/training/modules/typescript-implement-interfaces/
 
-## Module 4
+## ✅ Module 4
 Learn how to develop typed functions by using TypeScript.
 https://learn.microsoft.com/es-es/training/modules/typescript-develop-typed-functions/
 
 ## Module 5
 Learn how to declare and instantiate classes in TypeScript.
+https://learn.microsoft.com/es-es/training/modules/typescript-declare-instantiate-classes/
 
 ## Module 6
 Learn how to define generics in TypeScript.
