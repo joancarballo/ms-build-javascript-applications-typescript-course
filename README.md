@@ -18,12 +18,13 @@ https://learn.microsoft.com/es-es/training/modules/typescript-implement-interfac
 Learn how to develop typed functions by using TypeScript.
 https://learn.microsoft.com/es-es/training/modules/typescript-develop-typed-functions/
 
-## Module 5
+## ✅ Module 5
 Learn how to declare and instantiate classes in TypeScript.
 https://learn.microsoft.com/es-es/training/modules/typescript-declare-instantiate-classes/
 
 ## Module 6
 Learn how to define generics in TypeScript.
+https://learn.microsoft.com/es-es/training/modules/typescript-generics/
 
 ## Module 7
 Learn how to access external libraries from TypeScript.
